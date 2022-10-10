@@ -2,17 +2,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FA4FC&center=true&width=435&lines=hi+%F0%9F%91%8B;welcome+to+my+profile;check+out+some+of+my+projects...;star+and+follow+if+you+want;bye+%F0%9F%91%8B" />
 </p>
 
-<p float="left">
+<p align="center">
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/EthanL06?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
   <img alt="views" title="Views" src="https://komarev.com/ghpvc/?username=EthanL06&style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/EthanL06?label=Stars&style=for-the-badge" alt="stars">
 </p>
 
 
-<p float="left">
+<p align="center">
   <img style="display: inline-block" src="https://github-readme-stats.vercel.app/api?username=EthanL06&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
+</p>
+
+<p align="center">
   <img style="display: inline-block" src="https://github-readme-streak-stats.herokuapp.com/?user=EthanL06&theme=tokyonight" alt="mystreak"/>
 </p>
+
+
 
 ![EthanL06's github activity graph](https://activity-graph.herokuapp.com/graph?username=EthanL06&theme=tokyo-night)
 
