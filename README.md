@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FA4FC&center=true&width=435&lines=hi+%F0%9F%91%8B;welcome+to+my+profile;check+out+some+of+my+projects...;star+and+follow+if+you+want;bye+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FA4FC&center=true&width=435&lines=hi+%F0%9F%91%8B;welcome+to+my+profile;check+out+some+of+my+projects...;star+and+follow+(if+you+want);thank+you!" />
 </p>
 
 <p align="center">
