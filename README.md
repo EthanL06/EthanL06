@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EthanL06&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanL06&theme=tokyonight" alt="mystreak"/>
 </p>
 
